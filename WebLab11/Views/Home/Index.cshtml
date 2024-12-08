@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<main>
+    <h1>Calc Service Demonstration</h1>
+    <ul>
+        <li>
+            <a href="@Url.Action("Index", "ModelCalc")">Using Model Calc</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "ViewDataCalc")">Using ViewData Calc</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "ViewBagCalc")">Using ViewBag Calc</a>
+        </li>
+        <li>
+            <a href="@Url.Action("Index", "ServiceData")">Using Service Injection Calc</a>
+        </li>
+    </ul>
+</main>

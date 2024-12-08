@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\views\\servicedata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:views\\servicedata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\views\\modelcalc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:views\\modelcalc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\service\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:service\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\controllers\\viewdatacalccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:controllers\\viewdatacalccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\controllers\\viewbagcalccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:controllers\\viewbagcalccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\controllers\\servicedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:controllers\\servicedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\controllers\\modelcalccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:controllers\\modelcalccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|c:\\users\\vlada\\downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\weblab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011D2591-3A1E-474A-A7C0-080E7305DADE}|WebLab11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T16:31:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T16:31:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:25:22.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\ServiceData\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceData\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\ServiceData\\Index.cshtml",
+              "RelativeToolTip": "Views\\ServiceData\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:24:46.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\ModelCalc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ModelCalc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\ModelCalc\\Index.cshtml",
+              "RelativeToolTip": "Views\\ModelCalc\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:24:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:24:07.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Service\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Service\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Service\\CalculationService.cs",
+              "RelativeToolTip": "Service\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:23:39.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewDataCalcController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ViewDataCalcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViewDataCalcController.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ViewDataCalcController.cs",
+              "RelativeToolTip": "Controllers\\ViewDataCalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:23:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewBagCalcController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ViewBagCalcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViewBagCalcController.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ViewBagCalcController.cs",
+              "RelativeToolTip": "Controllers\\ViewBagCalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:23:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceDataController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ServiceDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceDataController.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ServiceDataController.cs",
+              "RelativeToolTip": "Controllers\\ServiceDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:23:30.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelCalcController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ModelCalcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ModelCalcController.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\ModelCalcController.cs",
+              "RelativeToolTip": "Controllers\\ModelCalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:23:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:23:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vlada\\Downloads\\932121.burdakin.oleg.lab11-master\\932121.burdakin.oleg.lab11-master\\WebLab11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:21:40.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

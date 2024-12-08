@@ -1,0 +1,25 @@
+﻿body > *
+{
+    padding-left: 10px;
+}
+
+header
+{
+    color: gray;
+    background-color: black;
+}
+
+header > *
+{
+    margin-right: 20px;    
+}
+
+header > a 
+{
+    color: gray;
+}
+
+a
+{
+    text-decoration: none;
+}

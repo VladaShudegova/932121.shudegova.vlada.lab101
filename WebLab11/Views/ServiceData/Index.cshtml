@@ -1,0 +1,25 @@
+﻿@using WebApplication1.Service
+
+@inject CalculationService calculationService
+@{
+    var data = calculationService.Calculate();
+    ViewBag.Title = "Service";
+}
+
+@{
+    Layout = "_Layout";
+}
+
+<main>
+    <h1>AccsessServiceDirectly</h1>
+    <p><b>Rand Value First: @data["first"]</b></p>
+    <p><b>Rand Value Second: @data["second"]</b></p>
+    <b>Add:</b>
+    <p>@data["first"] + @data["second"] = @data["sum"]</p>
+    <b>Sub:</b>
+    <p>@data["first"] - @data["second"] = @data["subtract"]</p>
+    <b>Mul:</b>
+    <p>@data["first"] * @data["second"] = @data["mul"]</p>
+    <b>Div:</b>
+    <p>@data["first"] / @data["second"] = @data["divide"]</p>
+</main>

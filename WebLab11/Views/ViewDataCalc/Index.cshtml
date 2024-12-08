@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewBag.Title = "ViewData";
+}
+
+<main>
+    <h1>PassUsingViewData</h1>
+    <p><b>Rand Value First: @ViewData["first"]</b></p>
+    <p><b>Rand Value Second: @ViewData["second"]</b></p>
+    <b>Add:</b>
+    <p>@ViewData["first"] + @ViewData["second"] = @ViewData["sum"]</p>
+    <b>Sub:</b>
+    <p>@ViewData["first"] - @ViewData["second"] = @ViewData["subtract"]</p>
+    <b>Mul:</b>
+    <p>@ViewData["first"] * @ViewData["second"] = @ViewData["mul"]</p>
+    <b>Div:</b>
+    <p>@ViewData["first"] / @ViewData["second"] = @ViewData["divide"]</p>
+</main>
